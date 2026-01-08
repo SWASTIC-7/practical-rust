@@ -1,0 +1,2 @@
+- [ ] have to fix the links in intro
+- [ ] Write a better mental model
