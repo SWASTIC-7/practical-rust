@@ -1,2 +1,4 @@
 - [ ] have to fix the links in intro
 - [ ] Write a better mental model
+- [ ] Add blog stack and heap in ownership responsibility
+- [ ] Add rust code in responsibiluty page, for comparison

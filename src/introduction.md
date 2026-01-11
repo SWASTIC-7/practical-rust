@@ -25,7 +25,7 @@ This book focuses on:
 - building intuition using working examples and failure cases
 
 
-## Who Is This Book For?
+## Who Is This Book For
 
 This book is for someone who:
 - already knows Rust syntax

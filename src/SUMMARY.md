@@ -3,7 +3,6 @@
 - [Introduction](./introduction.md)
 - [Mental Models First](./mental_models_first.md)
 
----
 
 # Core Ownership Model
 
@@ -22,7 +21,6 @@
   - [Who Outlives Whom](./lifetimes/outlives.md)
   - [When Lifetimes Disappear](./lifetimes/elision.md)
 
----
 
 # Type System
 
@@ -35,7 +33,6 @@
   - [Designing Extensible APIs](./traits/extensible_apis.md)
   - [Static vs Dynamic Dispatch](./traits/dispatch.md)
 
----
 
 # Patterns & Abstractions
 
@@ -54,7 +51,6 @@
   - [Box, Rc, Arc in Practice](./smart_pointers/box_rc_arc.md)
   - [Interior Mutability When It Makes Sense](./smart_pointers/interior_mutability.md)
 
----
 
 # Concurrency & Async
 
@@ -68,7 +64,6 @@
   - [Futures and Executors](./async_rust/futures_executors.md)
   - [Cancellation and Backpressure](./async_rust/cancellation.md)
 
----
 
 # Advanced Topics
 
@@ -83,7 +78,5 @@
 - [Performance](./performance/README.md)
   - [Where Rust is Actually Fast](./performance/where_fast.md)
   - [Data Layout and Cache Behavior](./performance/data_layout.md)
-
----
 
 - [Closing Thoughts](./closing_thoughts.md)
