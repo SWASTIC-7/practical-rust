@@ -2,3 +2,4 @@
 - [ ] Write a better mental model
 - [ ] Add blog stack and heap in ownership responsibility
 - [ ] Add rust code in responsibiluty page, for comparison
+- [ ] Files (ownership) write complete rust codes

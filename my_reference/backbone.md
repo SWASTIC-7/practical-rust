@@ -139,7 +139,7 @@ User accounts with different roles.
 
 ### Making Illegal States Unrepresentable
 **Scenario:**  
-Payment processing.
+Payment processing. 
 
 - Failed design: Checking validity everywhere.
 - Failed design: Runtime errors for invalid states.
@@ -150,7 +150,7 @@ Payment processing.
 
 ## Traits
 
-### Capabilities over Inheritance
+### Capabilities over Inheritance 
 **Scenario:**  
 Different storage backends.
 
